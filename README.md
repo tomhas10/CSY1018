@@ -1,2 +1,2 @@
-# CSY1018
+# csy1018
 Northampton University Web Development
